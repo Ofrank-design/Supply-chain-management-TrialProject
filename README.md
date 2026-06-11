@@ -111,7 +111,7 @@ Data represents a typical Ghana public sector supply chain. Replace with your ow
 
 ## About the Author
 
-**Frank Oduro** — enrolling October 2026 for BSc Procurement & Supply Chain Management at Kumasi Technical University (KSTU), Ghana. Building a real portfolio before Day 1 of lectures.
+**Frank Oduro** —BSc Procurement & Supply Chain Management at Kumasi Technical University (KSTU), Ghana. Building a real portfolio 
 
 - 🌐 [Portfolio](https://ofrank-design.github.io)
 - 🛠️ [Procurement Toolkit](https://ofrank-design.github.io/procurement-logistics-toolkit)
