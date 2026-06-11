@@ -2,7 +2,7 @@
 
 > Two practical supply chain projects built from scratch — a KPI dashboard in Python and a procurement quiz game in JavaScript.
 
-**By [Frank Oduro](https://ofrank-design.github.io/scm-projects/procurement-quiz.html) · KSTU BSc Procurement & Supply Chain Management · Ghana 🇬🇭**
+**By [Frank Oduro](https://ofrank-design.github.io/scm-projects) · KSTU BSc Procurement & Supply Chain Management · Ghana 🇬🇭**
 
 ---
 
