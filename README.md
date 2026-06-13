@@ -1,14 +1,14 @@
-# 📊 SCM Projects — Python & JavaScript
+# 📊 SCM Projects  Python & JavaScript
 
-> Two practical supply chain projects built from scratch — a KPI dashboard in Python and a procurement quiz game in JavaScript.
+> Two practical supply chain projects built from scratch a KPI dashboard in Python and a procurement quiz game in JavaScript.
 
 **By [Frank Oduro](https://ofrank-design.github.io/scm-projects) · KSTU BSc Procurement & Supply Chain Management · Ghana 🇬🇭**
 
----
+
 
 ## Projects
 
-### 1. 📈 Supply Chain KPI Dashboard — Python
+### 1. 📈 Supply Chain KPI Dashboard  Python
 
 A fully coded KPI dashboard built with Python and matplotlib, visualising six key supply chain metrics for a Ghana public sector context.
 
@@ -24,9 +24,9 @@ A fully coded KPI dashboard built with Python and matplotlib, visualising six ke
 
 ![SCM KPI Dashboard](scm_kpi_dashboard.png)
 
----
 
-### 2. 🎮 Ghana Procurement Quiz Game — JavaScript
+
+### 2. 🎮 Ghana Procurement Quiz Game  JavaScript
 
 An interactive browser-based quiz testing knowledge of Ghana's Public Procurement Acts 663 & 914, EOQ calculations, logistics, and supply chain management fundamentals.
 
@@ -40,7 +40,7 @@ An interactive browser-based quiz testing knowledge of Ghana's Public Procuremen
 
 **[▶ Play the Quiz →](https://ofrank-design.github.io/procurement-logistics-toolkit)**
 
----
+
 
 ## Tech Stack
 
@@ -49,7 +49,7 @@ An interactive browser-based quiz testing knowledge of Ghana's Public Procuremen
 | KPI Dashboard | Python | matplotlib, numpy |
 | Quiz Game | JavaScript | Vanilla JS — no frameworks |
 
----
+
 
 ## How to Run
 
@@ -66,7 +66,7 @@ pip install matplotlib numpy
 python scm_kpi_dashboard.py
 
 # Output: scm_kpi_dashboard.png saved in the same folder
-```
+
 
 ### Quiz Game
 ```bash
@@ -75,7 +75,7 @@ open procurement-quiz.html
 ```
 No server needed. Works completely offline.
 
----
+
 
 ## Sample KPIs Used
 
@@ -88,7 +88,7 @@ No server needed. Works completely offline.
 
 Data represents a typical Ghana public sector supply chain. Replace with your own CSV data to customise.
 
----
+
 
 ## Quiz Categories
 
@@ -98,7 +98,7 @@ Data represents a typical Ghana public sector supply chain. Replace with your ow
 - 🚚 Logistics — Incoterms 2020, CIF, FOB, EXW
 - 🔗 Supply Chain Management — Bullwhip Effect, SCOR model, ABC analysis
 
----
+
 
 ## What's Next
 
@@ -107,22 +107,21 @@ Data represents a typical Ghana public sector supply chain. Replace with your ow
 - [ ] Expand quiz to 30 questions with difficulty levels
 - [ ] Add leaderboard to the quiz using localStorage
 
----
 
 ## About the Author
 
-**Frank Oduro** —BSc Procurement & Supply Chain Management at Kumasi Technical University (KSTU), Ghana. Building a real portfolio 
+**Frank Oduro** *BSc Procurement & Supply Chain Management at Kumasi Technical University (KSTU), Ghana. Building a real portfolio 
 
 - 🌐 [Portfolio](https://ofrank-design.github.io)
 - 🛠️ [Procurement Toolkit](https://ofrank-design.github.io/procurement-logistics-toolkit)
 - 🐙 [GitHub](https://github.com/Ofrank-design)
 
----
+
 
 ## License
 
-MIT — free to use, fork, and adapt. A ⭐ star is appreciated if this helped you.
+MIT  free to use, fork, and adapt. A ⭐ star is appreciated if this helped you.
 
----
+
 
 *Made in Kumasi, Ghana 🇬🇭*
