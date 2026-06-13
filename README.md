@@ -13,6 +13,37 @@
 - 🛠️ [Procurement Toolkit](https://ofrank-design.github.io/procurement-logistics-toolkit)
 - 🐙 [GitHub](https://github.com/Ofrank-design)
 
+![Student](https://img.shields.io/badge/KSTU-BSc%20Procurement%20%26%20-0d2149?style=flat-square&logo=graduation-cap&logoColor=d4a843)
+![Year](https://img.shields.io/badge/Enrolled-October%202026-d4a843?style=flat-square)
+![Location](https://img.shields.io/badge/📍-Kumasi%2C%20Ghana-006B3F?style=flat-square)
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github)
+#### 📦 Procurement & Supply Chain
+![Ghana PPA](https://img.shields.io/badge/Ghana%20PPA%20Acts%20663%20%26%20914-0a4d2e?style=for-the-badge&logoColor=white)
+![Ghana e-GP](https://img.shields.io/badge/Ghana%20e--GP%20Portal-1a6b3c?style=for-the-badge&logoColor=white)
+![EOQ Modelling](https://img.shields.io/badge/EOQ%20Modelling-16a34a?style=for-the-badge&logoColor=white)
+![ABC Analysis](https://img.shields.io/badge/ABC%20Analysis-15803d?style=for-the-badge&logoColor=white)
+![Contract Management](https://img.shields.io/badge/Contract%20Management-166534?style=for-the-badge&logoColor=white)
+![Strategic Sourcing](https://img.shields.io/badge/Strategic%20Sourcing-14532d?style=for-the-badge&logoColor=white)
+
+#### 📊 Analytics & Tools
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+#### ⚙️ ERP Systems
+![SAP MM](https://img.shields.io/badge/SAP%20MM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MS Dynamics 365](https://img.shields.io/badge/MS%20Dynamics%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+#### 🛠️ Dev & Productivity
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
