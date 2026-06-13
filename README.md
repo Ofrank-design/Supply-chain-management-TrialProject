@@ -5,6 +5,16 @@
 **By [Frank Oduro](https://ofrank-design.github.io/scm-projects) · KSTU BSc Procurement & Supply Chain Management · Ghana 🇬🇭**
 
 
+## About the Author
+
+**Frank Oduro** *BSc Procurement & Supply Chain Management at Kumasi Technical University (KSTU), Ghana. Building a real portfolio 
+
+- 🌐 [Portfolio](https://ofrank-design.github.io)
+- 🛠️ [Procurement Toolkit](https://ofrank-design.github.io/procurement-logistics-toolkit)
+- 🐙 [GitHub](https://github.com/Ofrank-design)
+
+
+
 
 ## Projects
 
@@ -106,16 +116,6 @@ Data represents a typical Ghana public sector supply chain. Replace with your ow
 - [ ] Add Power BI version of the KPI dashboard
 - [ ] Expand quiz to 30 questions with difficulty levels
 - [ ] Add leaderboard to the quiz using localStorage
-
-
-## About the Author
-
-**Frank Oduro** *BSc Procurement & Supply Chain Management at Kumasi Technical University (KSTU), Ghana. Building a real portfolio 
-
-- 🌐 [Portfolio](https://ofrank-design.github.io)
-- 🛠️ [Procurement Toolkit](https://ofrank-design.github.io/procurement-logistics-toolkit)
-- 🐙 [GitHub](https://github.com/Ofrank-design)
-
 
 
 ## License
