@@ -144,7 +144,7 @@ Data represents a typical Ghana public sector supply chain. Replace with your ow
 
 ## License
 
-MIT  free to use, fork, and adapt. A ⭐ star is appreciated if this helped you.
+MIT  free to use, fork, and adapt. A star is appreciated if this helped you.
 
 
 
